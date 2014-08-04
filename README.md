@@ -8,11 +8,9 @@ cellular up-link for Stanford Dynamic Design Lab
 - **cradlepoint.cfg**
  - TODO: Configuration blob for cradlepoint.
 - **RT4000.cfg**
- - TODO: Configuration blob for RT4002 (red box in shelley)
+ - TODO: Configuration blob for RT4000 (red box in shelley)
 - **trimble.cfg**
  - TODO: Configuration blob for yellow GPS base station.
-- **RT4000.cfg**
- - TODO: Configuration blob for RT4002 (red box in shelley)
 - **server/shorewall/rules**
  - rules file for shorewall firewall running on the publically addressable server
 - **server/shorewall/hosts**
