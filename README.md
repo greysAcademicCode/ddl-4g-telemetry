@@ -5,8 +5,8 @@ cellular up-link for Stanford Dynamic Design Lab
 
 ### Files here
 ---
-- **cradlepoint.cfg**
- - TODO: Configuration blob for cradlepoint.
+- **cp_config_IBR600LE-8-4-2014.bin**
+ - Configuration blob for cradlepoint.
 - **RT4000.cfg**
  - TODO: Configuration blob for RT4000 (red box in shelley)
 - **trimble.cfg**
