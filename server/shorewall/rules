@@ -56,6 +56,8 @@ Telnet(DNAT)    net             vpn:195.0.0.87
 HTTPS(DNAT)     net             vpn:195.0.0.1
 HTTP(DNAT)      net             vpn:195.0.0.1
 
+#note port 1146 needs to be attached to something
+
 #matlab license server
 ACCEPT          net             $FW                     tcp     27000
 ACCEPT          net             $FW                     tcp     48262
